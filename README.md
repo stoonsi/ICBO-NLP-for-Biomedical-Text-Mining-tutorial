@@ -11,3 +11,8 @@ The tutorial is structured as follows:
 * Current and future NLP trends
     * Transformer models (e.g. BERT and GPT)
 * Limitations and ethics
+
+# Instructors #
+* Dr. Senay Kafkass
+* Mrs. Sumyyah Toonsi
+* Ms. Sakhaa Alsaedi
