@@ -1,5 +1,6 @@
 ICBO 2023 tutorial <a name="TOP"></a>
 ===================
+![alt text](https://github.com/stoonsi/ICBO-NLP-for-Biomedical-Text-Mining-tutorial/blob/main/COVER%20IMAGE.png)
 - - - - 
 # Natural Language Processing for Biomedical Text Mining tutorial #
 The tutorial is structured as follows:
@@ -12,6 +13,7 @@ The tutorial is structured as follows:
     * Transformer models (e.g. BERT and GPT)
 * Limitations and ethics
 
+- - - - 
 # Instructors #
 * Dr. Senay Kafkass
 * Mrs. Sumyyah Toonsi
