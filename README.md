@@ -1,1 +1,2 @@
-# ICBO-NLP-for-Biomedical-Text-Mining-tutorial
+# ICBO23 tutorial
+# Natural Language Processing for Biomedical Text Mining tutorial
