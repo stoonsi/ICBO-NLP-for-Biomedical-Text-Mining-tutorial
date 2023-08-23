@@ -15,6 +15,6 @@ The tutorial is structured as follows:
 
 - - - - 
 # Instructors #
-* Dr. Senay Kafkass
+* Dr. Senay Kafkas
 * Mrs. Sumyyah Toonsi
 * Ms. Sakhaa Alsaedi
