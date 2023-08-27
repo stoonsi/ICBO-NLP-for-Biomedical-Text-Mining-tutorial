@@ -2,6 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ===================
 ![NLP](https://github.com/Sakhaa-Alsaedi/AI_in_Medicine_KAUST_Academy/assets/42935314/7fd0c7ee-4bad-4c1d-afdf-02448c9b478c)
+![alt text](https://github.com/stoonsi/ICBO-NLP-for-Biomedical-Text-Mining-tutorial/blob/main/COVER%20IMAGE.png)
 
 # ICBO 2023: Natural Language Processing for Biomedical Text Mining Tutorial
 Introduction to information retrieval and text mining, NLP Processing, Named Entity Recognition (NER), Named Entity Normalisation (NEN), and Relation Extraction (RE)
@@ -18,10 +19,6 @@ Introduction to information retrieval and text mining, NLP Processing, Named Ent
 > Practical part created by <br>
 > [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup> <br>
 > King Abdullah University of Science and Technology (KAUST)<sup>1</sup>
-
-ICBO 2023 tutorial <a name="TOP"></a>
-===================
-![alt text](https://github.com/stoonsi/ICBO-NLP-for-Biomedical-Text-Mining-tutorial/blob/main/COVER%20IMAGE.png)
 
 ## Welcome to the Biomedical NLP Tutorial Repository!
 
