@@ -27,18 +27,10 @@ ICBO 2023 tutorial <a name="TOP"></a>
 
 This repository contains code for building a Natural Language Processing models and tasks for Biomedical Text Mining. This can generally be useful for high quality samples, or for model diversity.
 
-
-# Scripts :space_invader:
-
-| Part | Description  | Open in Colab| 
-| :---: | :---:         |     :---:      |  
-| Introduction of NLP | [Notebook 1]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z9V_FZiwyz9450RgRfDOoHnRMSF883aC?usp=sharing)|
-| Biomedical transormers   | [Notebook 2]()  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16dGNDtfYh_eX6LBiBMaYn9ZSRIkBjqD9?usp=sharing)|
-| Biomedical NLP workflow implementation| [Notebook 3]()  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PhmP7qXCLGcZ8YrO02ZzFD71_hRcBzTy?usp=sharing)|
+# Natural Language Processing for Biomedical Text Mining tutorial #
 
 ## List of Contents 📖
 - - - - 
-# Natural Language Processing for Biomedical Text Mining tutorial #
 The tutorial is structured as follows:
 * Introduction
     * Textual data and its importance
@@ -50,6 +42,15 @@ The tutorial is structured as follows:
 * Limitations and ethics
 
 - - - - 
+
+
+# Scripts :space_invader:
+
+| Part | Description  | Open in Colab| 
+| :---: | :---:         |     :---:      |  
+| Introduction of NLP | [Notebook 1]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z9V_FZiwyz9450RgRfDOoHnRMSF883aC?usp=sharing)|
+| Biomedical transormers   | [Notebook 2]()  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16dGNDtfYh_eX6LBiBMaYn9ZSRIkBjqD9?usp=sharing)|
+| Biomedical NLP workflow implementation| [Notebook 3]()  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PhmP7qXCLGcZ8YrO02ZzFD71_hRcBzTy?usp=sharing)|
    
 ## Dependencies 🛠️
 [Google Colab](https://colab.research.google.com) provides all the necessary dependencies for running the code in this repository. You do not need to install any additional packages.
