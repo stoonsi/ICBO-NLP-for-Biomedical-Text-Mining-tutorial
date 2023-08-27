@@ -61,6 +61,3 @@ The tutorial is structured as follows:
 
 * ▬▬▬▬▬▬▬ Papers ▬▬▬▬▬▬▬
 
-![alt text](https://github.com/stoonsi/ICBO-NLP-for-Biomedical-Text-Mining-tutorial/blob/main/COVER%20IMAGE.png)
-
-
