@@ -1,7 +1,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-# Biomedical NLP Tutorial
+# ICBO 2023: Natural Language Processing for Biomedical Text Mining Tutorial
 Introduction to information retrieval and text mining, NLP Processing, Named Entity Recognition (NER), Named Entity Normalisation (NEN), and Relation Extraction (RE)
 
 # Instructors #
@@ -30,8 +30,8 @@ This repository contains code for building a Natural Language Processing models 
 | Part | Description  | Open in Colab| 
 | :---: | :---:         |     :---:      |  
 | Introduction of NLP | [Notebook 1]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z9V_FZiwyz9450RgRfDOoHnRMSF883aC?usp=sharing)|
-| Biomedical transormers   | [Notebook 2]()  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15PXFHU96EjgycSrWhOCD7ffb0lRj91qr?usp=sharing)|
-| Biomedical NLP workflow implementation| [Notebook 3]()  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16dGNDtfYh_eX6LBiBMaYn9ZSRIkBjqD9?usp=sharing)|
+| Biomedical transormers   | [Notebook 2]()  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16dGNDtfYh_eX6LBiBMaYn9ZSRIkBjqD9?usp=sharing)|
+| Biomedical NLP workflow implementation| [Notebook 3]()  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PhmP7qXCLGcZ8YrO02ZzFD71_hRcBzTy?usp=sharing)|
 
 ## List of Contents 📖
 - - - - 
