@@ -43,11 +43,11 @@ The tutorial is structured as follows:
 
 # Scripts :space_invader:
 
-| Part | Description  | Open in Colab| 
-| :---: | :---:         |     :---:      |  
-| Introduction of NLP | [Notebook 1]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z9V_FZiwyz9450RgRfDOoHnRMSF883aC?usp=sharing)|
-| Biomedical transormers   | [Notebook 2]()  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16dGNDtfYh_eX6LBiBMaYn9ZSRIkBjqD9?usp=sharing)|
-| Biomedical NLP workflow implementation| [Notebook 3]()  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PhmP7qXCLGcZ8YrO02ZzFD71_hRcBzTy?usp=sharing)|
+| Part | Open in Colab| 
+| :---: |     :---:      |  
+| Introduction of NLP  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z9V_FZiwyz9450RgRfDOoHnRMSF883aC?usp=sharing)|
+| Biomedical transormers   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16dGNDtfYh_eX6LBiBMaYn9ZSRIkBjqD9?usp=sharing)|
+| Biomedical NLP workflow implementation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PhmP7qXCLGcZ8YrO02ZzFD71_hRcBzTy?usp=sharing)|
    
 ## Dependencies 🛠️
 [Google Colab](https://colab.research.google.com) provides all the necessary dependencies for running the code in this repository. You do not need to install any additional packages.
