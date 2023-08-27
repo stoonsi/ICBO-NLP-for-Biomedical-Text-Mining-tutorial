@@ -1,6 +1,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+![NLP](https://github.com/Sakhaa-Alsaedi/AI_in_Medicine_KAUST_Academy/assets/42935314/7fd0c7ee-4bad-4c1d-afdf-02448c9b478c)
+
 # ICBO 2023: Natural Language Processing for Biomedical Text Mining Tutorial
 Introduction to information retrieval and text mining, NLP Processing, Named Entity Recognition (NER), Named Entity Normalisation (NEN), and Relation Extraction (RE)
 
@@ -9,9 +11,10 @@ Introduction to information retrieval and text mining, NLP Processing, Named Ent
 * Mrs. Sumyyah Toonsi
 * Ms. Sakhaa Alsaedi
 
-> theoretical part created by <br>
+> Theoretical part created by <br>
 > [Senay Kafkas](https://cemse.kaust.edu.sa/cbrc/people/person/senay-kafkas)<sup>1</sup> and [Sumyyah Toonsi](https://cemse.kaust.edu.sa/people/person/sumyyah-toonsi)<sup>1</sup> <br>
-> King Abdullah University of Science and Technology (KAUST)<sup>1</sup>
+> King Abdullah University of Science and Technology (KAUST)<sup>1</sup><br>
+
 > Practical part created by <br>
 > [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup> <br>
 > King Abdullah University of Science and Technology (KAUST)<sup>1</sup>
