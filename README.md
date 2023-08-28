@@ -7,11 +7,7 @@
 # ICBO 2023: Natural Language Processing for Biomedical Text Mining Tutorial
 Introduction to information retrieval and text mining, NLP Processing, Named Entity Recognition (NER), Named Entity Normalisation (NEN), and Relation Extraction (RE)
 
-# Instructors #
-* Dr. Senay Kafkas
-* Mrs. Sumyyah Toonsi
-* Ms. Sakhaa Alsaedi
-
+# Instructors 
 > Theoretical part created by <br>
 > [Dr. Senay Kafkas](https://cemse.kaust.edu.sa/cbrc/people/person/senay-kafkas)<sup>1</sup> and [Mrs. Sumyyah Toonsi](https://cemse.kaust.edu.sa/people/person/sumyyah-toonsi)<sup>1</sup> <br>
 > King Abdullah University of Science and Technology (KAUST)<sup>1</sup><br>
